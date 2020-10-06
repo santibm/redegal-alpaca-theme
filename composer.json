@@ -6,7 +6,7 @@
   "version": "1.0.0",
   "require": {
     "snowdog/theme-frontend-alpaca": "^2.9.0",
-    "redegal/module-child-theme-frontools": "@dev"
+    "redegal/module-child-theme-frontools": "^1.0.0"
   },
   "autoload": {
     "files": [
