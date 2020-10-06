@@ -1,0 +1,15 @@
+{
+  "name": "redegal/alpaca-theme",
+  "description": "Alpaca frontend theme for Magento 2",
+  "license": "MIT",
+  "type": "magento2-theme",
+  "require": {
+    "snowdog/theme-frontend-alpaca": "^2.9.0",
+    "redegal/module-child-theme-frontools": "@dev"
+  },
+  "autoload": {
+    "files": [
+      "registration.php"
+    ]
+  }
+}
